@@ -7013,7 +7013,7 @@ print("waiting")
 ##34242524252G2525
 for x in range(1, 25000):
 	table = ["A;;Big CHUNGUS", "a;;big chungus", "B;;bugs bunny", "b;;skibidi", "c;;ohio", "C;;rizzler", "E;;Small Chungus",  "e;;Even Smaller Chungus", "F;;Humoungous Chungus", "f;;AMONGUS SUSSY CHUNGUS"]
-	table.append(table2)
+	table.append(tbl2)
 	tbl2.append(table)
-	object[base64.b85encode(bytes(str(random.randint(1, 500000)))) + 'bugs bunny'] = table
-	object[base64.b85encode(bytes(str(random.randint(1, 500000)))) + 'bugs bunny'] = tbl2
+	objecto[str(base64.b85encode(bytes(str(random.randint(1, 500000)), encoding="utf-8"))) + 'bugs bunny'] = table
+	objecto[str(base64.b85encode(bytes(str(random.randint(1, 500000)), encoding="utf-8"))) + 'bugs bunny'] = tbl2
