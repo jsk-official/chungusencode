@@ -3,3 +3,4 @@ mcstatus
 googletrans
 py7zr
 pybase64
+python-weather

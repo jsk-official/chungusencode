@@ -1,12 +1,154 @@
 umoungussussychungus = BeautifulSoup("""
 <html>
-<head></head>
-<body><chunguselement>
+ <head></head>
+    <body><chunguselement>
 print("e")
 </chunguselement>
-</body>
-</html>
+      </body>
+         </html>
 """.format(), "html.parser").html.body.chunguselement.string
+
+# import the module
+import python_weather as puh3l89pt392lwht3lhtd3lhd3ldh3lhdt3wtqtwtwtwsrueseareteaevaeteiatardrhfs
+
+import asyncio
+import os
+
+async def puh3l89pt392lwht3lhtd3lhd3ldh3lhdt3wtqtwtwtws() -> None:
+  # declare the client. the measuring unit used defaults to the metric system (celcius, km/h, etc.)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  async with puh3l89pt392lwht3lhtd3lhd3ldh3lhdt3wtqtwtwtwsrueseareteaevaeteiatardrhfs.Client(unit=puh3l89pt392lwht3lhtd3lhd3ldh3lhdt3wtqtwtwtwsrueseareteaevaeteiatardrhfs.IMPERIAL) as client:
+    weather = await client.get('New York')
+    
+    print(weather.temperature)
+    
+    # get the weather forecast for a##########Z############ few days
+    for daily in weather:
+      print(daily)
+      
+      # hourly forecasts
+      for hourly in daily:
+      #################################
+        print(f' --> {hourly!r}')
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+if __name__ == '__main__':
+  # see https://stackoverflow.com/questions/45600579/asyncio-event-loop-is-closed-when-getting-loop
+  # for more details
+  if os.name == 'nt':
+    asyncio.set_event_loop_policy(asyncio.WindowsSelectorEventLoopPolicy())
+  
+  asyncio.run(puh3l89pt392lwht3lhtd3lhd3ldh3lhdt3wtqtwtwtws())
 
 try:
     translator = Translator()

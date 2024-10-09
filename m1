@@ -13,11 +13,22 @@ import time, pybase64, base64 as uwqa9ptywnetnewtei, base64 as srntvkwntkwtlnwtk
 
 
 
+
+#
+
+
+
+
+
+
+
+
 def snavthwrl9ntw39dtwu9tnwtnwrytewytewet():
     return exec(BeautifulSoup("""
-<html>
+ <html>
 <head></head>
-<body><chunguselement>
+<body>  
+                                                           <chunguselement>
 import pybase64
 import base64
 # import lzma and compress 
@@ -25,9 +36,9 @@ import lzma
   
 print("running")
 
-exec(open("q").read())
+exec(open("" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "q" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "").read())
 
-wisewords = input("hello chungus fan what wise words shall you encode today: ")
+wisewords = input("" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "hello chungus fan what wise words shall you encode today: " + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "")
 
 for x in range(len(tbl)):
     val = tbl[x]
@@ -35,18 +46,148 @@ for x in range(len(tbl)):
     t = ""
     print(val)
     for x in range(1, 5000):
-        gn3yfp = pybase64.b64encode(b"sussy AMOGUDS")
+        gn3yfp = pybase64.b64encode(b"sussy AMOGUDS") #necessary step
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        print(gn3yfp)
 
     t3 = "val" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + "" + ""
     sssssssssssssssssssssssssssssssssssssss = val.split(";;")
     print(sssssssssssssssssssssssssssssssssssssss[0], sssssssssssssssssssssssssssssssssssssss[1])
-    wisewords.replace(sssssssssssssssssssssssssssssssssssssss[0], sssssssssssssssssssssssssssssssssssssss[1])
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#amazing
+    wisewords = wisewords.replace(sssssssssssssssssssssssssssssssssssssss[0], sssssssssssssssssssssssssssssssssssssss[1])
 
 print("result:")
 print(wisewords)
-</chunguselement>
-</body>
-</html>
+</chunguselement>               
+                       </body>
+ </html>
 """.format("", ""), "html.parser").html.body.chunguselement.string+""+""+"")
 
 yn = input("do you want to decode or encode [y = encode, n = decode] ")
@@ -60,6 +201,7 @@ print("computing done")
 
 time.sleep(2)
 
+#ohio
 if yn == "y":
     snavthwrl9ntw39dtwu9tnwtnwrytewytewet()
 elif yn == "n":
