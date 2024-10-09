@@ -10,4 +10,4 @@ The world's best encoder(🚀) with a small and efficient codebase(🚀)
 # System Requirements(🚀)
   CPU: Intel Core i9-14900KS (Older CPUs may work, but for best encoding performance, you are going to need the latest and greatest. 🚀)
   
-  RAM: 32GB DDR4 running at at least 3200 MT/s (🚀)
+  RAM: 64GB DDR4 running at at least 3200 MT/s (🚀)
